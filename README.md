@@ -1,13 +1,20 @@
+<!-- Título -->
 <h1 align="center">👋 Olá, eu sou o Melck</h1>
 
+<!-- GIF topo -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
+<!-- Apresentação -->
 <p align="center">
   💻 Desenvolvedor em formação • 🎓 Ciência da Computação <br>
   🚀 Full Stack • IA • Cybersecurity <br>
   📍 Brasil 🇧🇷
+</p>
+
+<p align="center">
+  🎯 Em evolução para atuar como Desenvolvedor Full Stack com foco em Cibersegurança
 </p>
 
 ---
@@ -50,24 +57,14 @@
 
 ## 📊 Estatísticas
 
+<!-- SOMENTE O QUE FUNCIONA -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MelckSilva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelckSilva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img src="https://streak-stats.demolab.com?user=MelckSilva&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=MelckSilva&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://raw.githubusercontent.com/MelckSilva/MelckSilva/output/github-contribution-grid-snake-dark.svg">
 </p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MelckSilva/MelckSilva/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
 
 ## 🚀 Tecnologias
 
@@ -98,10 +95,10 @@
 
 ## 📌 Projetos
 
-- 🔹 CDMM System  
-- 🔹 Classificador de Músicas  
-- 🔹 Aplicativo Zoo Bauru  
-- 🔹 Site Dengue  
+- 🔹 [CDMM System](https://github.com/MuMoretto/CDMM_System)  
+- 🔹 [Classificador de Músicas](https://github.com/MelckSilva/classificador_de_musicas)  
+- 🔹 [Aplicativo Zoo Bauru](https://github.com/MelckSilva/Aplicativo-Zoo-Bauru)  
+- 🔹 [Site Dengue](https://github.com/andersonkaiti/site-dengue)  
 
 ---
 
