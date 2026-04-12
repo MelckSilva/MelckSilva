@@ -24,7 +24,8 @@
 - 🔭 Desenvolvendo projetos e evoluindo constantemente  
 - 🌱 Aprendendo: JavaScript, Node.js e Next.js  
 - 🎯 Objetivo: me tornar um desenvolvedor Full Stack e cybersecurity
-- ⚡ Disciplina e consistência todos os dias  
+- ⚡ Disciplina e consistência todos os dias
+- 😎 Hobbies: tocar baixo, games, filmes, animes e livros
 
 ---
 
