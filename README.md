@@ -1,12 +1,11 @@
-<!-- Título -->
-<h1 align="center">👋 Olá, eu sou o Melck</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=9822F7&width=500&lines=%F0%9F%91%8B+Prazer%2C+Melck+Silva;Seja+bem-vindo(a)+ao+meu+perfil;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o+com+foco+em+IA+e+Ciberseguran%C3%A7a">
+</p>
 
-<!-- GIF topo -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
-<!-- Apresentação -->
 <p align="center">
   💻 Desenvolvedor em formação • 🎓 Ciência da Computação <br>
   🚀 Full Stack • IA • Cybersecurity <br>
@@ -58,7 +57,6 @@
 
 ## 📊 Estatísticas
 
-<!-- SOMENTE O QUE FUNCIONA -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MelckSilva&theme=tokyonight&hide_border=true"/>
 </p>
