@@ -1,12 +1,9 @@
-<!-- Título -->
 <h1 align="center">👋 Olá, eu sou o Melck</h1>
 
-<!-- GIF topo -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
-<!-- Apresentação -->
 <p align="center">
   💻 Desenvolvedor em formação • 🎓 Ciência da Computação <br>
   🚀 Full Stack • IA • Cybersecurity <br>
@@ -54,8 +51,12 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MelckSilva&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelckSilva&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MelckSilva&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelckSilva&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=MelckSilva&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
