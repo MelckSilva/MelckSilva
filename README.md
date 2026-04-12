@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=9822F7&width=435&lines=%F0%9F%91%8B+Prazer%2C+Melck+Silva;Seja+bem-vindo(a)+ao+meu+perfil;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=9822F7&width=500&lines=%F0%9F%91%8B+Prazer%2C+Melck+Silva;Seja+bem-vindo(a)+ao+meu+perfil;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o">
 </p>
 
 <p align="center">
