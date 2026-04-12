@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=9822F7&width=550&lines=%F0%9F%91%8B+Prazer%2C+Melck+Silva;%F0%9F%98%81+Seja+bem-vindo(a)+ao+meu+perfil;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o">
 </p>
 
