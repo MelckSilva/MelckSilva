@@ -45,7 +45,7 @@
   <a href="https://www.instagram.com/melck.bass/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram">
   </a>
-<p align="center">
+  <br><br>
   📧 <b>E-mail:</b> <a href="mailto:melcknascimento22@gmail.com">melcknascimento22@gmail.com</a>
 </p>
 
