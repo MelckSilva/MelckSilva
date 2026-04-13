@@ -21,7 +21,7 @@
 
 ## 🧠 Sobre mim!
 
-- 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="150" src="https://github.com/user-attachments/assets/f877ccab-b3ef-4658-aedb-abe124429533">
+- 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="140" src="https://github.com/user-attachments/assets/f877ccab-b3ef-4658-aedb-abe124429533">
 - 🌱 Aprendendo: JavaScript, Node.js e Next.js  
 - 🎯 Objetivo: me tornar um desenvolvedor Full Stack, com interesse em Cibersegurança  
 - ⚡ Disciplina e consistência todos os dias  
