@@ -42,14 +42,11 @@
   <a href="https://www.linkedin.com/in/melck-silva-4aa00b317/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn">
   </a>
-  
   <a href="https://www.instagram.com/melck.bass/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram">
   </a>
-
-  <a href="mailto:melcknascimento22@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail">
-  </a>
+<p align="center">
+  📧 <b>E-mail:</b> <a href="mailto:melcknascimento22@gmail.com">melcknascimento22@gmail.com</a>
 </p>
 
 ---
