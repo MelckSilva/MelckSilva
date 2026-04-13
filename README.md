@@ -12,10 +12,6 @@
   📍 Brasil 🇧🇷
 </p>
 
-<p align="center">
-  🎯 Em evolução para atuar como Desenvolvedor Full Stack com foco em Cibersegurança
-</p>
-
 ---
 
 
