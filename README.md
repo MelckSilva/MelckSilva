@@ -21,7 +21,7 @@
 - 🌱 Aprendendo: JavaScript, Node.js e Next.js  
 - 🎯 Objetivo: me tornar um desenvolvedor Full Stack, com interesse em Cibersegurança  
 - ⚡ Disciplina e consistência todos os dias  
-- 😎 Hobbies: baixo, academia, games, filmes, animes e livros
+- 😎 Hobbies: tocar baixo, academia, games, filmes, animes e livros
 ---
 
 ## 🎧 O que estou ouvindo
