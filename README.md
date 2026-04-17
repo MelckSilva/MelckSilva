@@ -82,7 +82,7 @@
 ### 🎮 Game Dev
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+  <img height="35" src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&size=96&color=%23ffffff">
 </p>
 
 ---
