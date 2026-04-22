@@ -8,7 +8,7 @@
 
 <p align="center">
   💻 Desenvolvedor em formação • 🎓 Ciência da Computação <br>
-  🚀 Full Stack • IA • Cybersecurity <br>
+  🚀 Full Stack • Cybersecurity <br>
   📍 Brasil 🇧🇷
 </p>
 
