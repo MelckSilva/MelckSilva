@@ -86,7 +86,7 @@
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📚 Em evolução
 
 <p align="center">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
