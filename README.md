@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/GIFs/mario_setup.gif">
+  <img src="assets/GIFs/mario_setup.gif" alt= "Mario no computador"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre mim!
 
-- 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="135" src="assets/GIFs/kakashi.gif">
+- 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="135" src="assets/GIFs/kakashi.gif" alt= "kakashi lendo" />
 - 🌱 Aprendendo: JavaScript, Node.js e Next.js  
 - 🎯 Objetivo: me tornar um desenvolvedor Full Stack, com interesse em Cibersegurança  
 - ⚡ Disciplina e consistência todos os dias  
