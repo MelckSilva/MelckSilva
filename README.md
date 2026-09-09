@@ -18,25 +18,16 @@
 ## 🧠 Sobre mim!
 
 - 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="135" src="assets/GIFs/kakashi.gif" alt= "kakashi lendo" />
-- 🌱 Aprendendo: JavaScript, Node.js e React Native  
+- 🌱 Aprendendo: JavaScript, Node.js e React/web 
 - 🎯 Objetivo: me tornar um desenvolvedor Full Stack, com interesse em Cibersegurança  
 - ⚡ Desenvolvendo projetos para colocar em prática meus conhecimentos  
 - 🎸 Além do código: tocar baixo, academia, games, filmes, animes e livros
----
-
-## 🎧 O que estou ouvindo
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314ltud2n44som6akwige46iethy&cover_image=true&theme=default&background_color=121212&bar_color=c20a0a">
-</p>
-
 ---
 
 ## 🚀 Tecnologias
 
 ### 💻 Linguagens e Desenvolvimento
 <p align="center">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -76,7 +67,7 @@
 ## 📚 Atualmente estudando
 
 <p align="center">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </p>
