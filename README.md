@@ -18,8 +18,8 @@
 ## 🧠 Sobre mim!
 
 - 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="135" src="assets/GIFs/kakashi.gif" alt= "kakashi lendo" />
-- 🌱 Aprendendo: JavaScript, Node.js e React/web 
-- 🎯 Objetivo: me tornar um desenvolvedor Full Stack, com interesse em Cibersegurança  
+- 🌱 Aprendendo: JavaScript, React e Node.js 
+- 🎯 Foco: desenvolvimento Full Stack, construindo projetos para aprimorar minhas habilidades  
 - ⚡ Desenvolvendo projetos para colocar em prática meus conhecimentos  
 - 🎸 Além do código: tocar baixo, academia, games, filmes, animes e livros
 ---
