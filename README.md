@@ -25,7 +25,7 @@
 
 ## 📌 Projetos
 
-- 🔹 [Nexa Mind](https://github.com/MelckSilva/Nexa_mind.git).
+- 🔹 [Nexa Mind](https://github.com/MelckSilva/Nexa_mind.git)
 - 🔹 [CDMM System](https://github.com/MuMoretto/CDMM_System)   
 - 🔹 [Aplicativo Zoo Bauru](https://github.com/MelckSilva/Aplicativo-Zoo-Bauru)  
 - 🔹 [Site Dengue](https://github.com/andersonkaiti/site-dengue)
