@@ -14,7 +14,6 @@
 
 ---
 
-
 ## 🧠 Sobre mim!
 
 - 🔭 Desenvolvendo projetos e evoluindo constantemente  <img align="right" height="135" src="assets/GIFs/kakashi.gif" alt= "kakashi lendo" />
@@ -22,6 +21,15 @@
 - 🎯 Foco: desenvolvimento Full Stack, construindo projetos para aprimorar minhas habilidades  
 - ⚡ Desenvolvendo projetos para colocar em prática meus conhecimentos  
 - 🎸 Além do código: tocar baixo, academia, games, filmes, animes e livros
+---
+
+## 📌 Projetos
+
+- 🔹 [Nexa Mind](https://github.com/MelckSilva/Nexa_mind.git).
+- 🔹 [CDMM System](https://github.com/MuMoretto/CDMM_System)   
+- 🔹 [Aplicativo Zoo Bauru](https://github.com/MelckSilva/Aplicativo-Zoo-Bauru)  
+- 🔹 [Site Dengue](https://github.com/andersonkaiti/site-dengue)
+
 ---
 
 ## 🚀 Tecnologias
@@ -52,15 +60,6 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img height="35" src="https://www.readmecodegen.com/api/social-icon?name=unrealengine&size=96&color=%23ffffff">
 </p>
-
----
-
-## 📌 Projetos
-
-- 🔹 [CDMM System](https://github.com/MuMoretto/CDMM_System)  
-- 🔹 [Classificador de Músicas](https://github.com/MelckSilva/classificador_de_musicas)  
-- 🔹 [Aplicativo Zoo Bauru](https://github.com/MelckSilva/Aplicativo-Zoo-Bauru)  
-- 🔹 [Site Dengue](https://github.com/andersonkaiti/site-dengue)  
 
 ---
 
